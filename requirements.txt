@@ -4,3 +4,5 @@ mysqlclient
 flask-marshmallow
 marshmallow-sqlalchemy
 flask-cors
+flask-jwt-extended
+datetime
